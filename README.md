@@ -1,4 +1,4 @@
-# Markdown Worksheet TEST
+# Markdown Worksheet
 
 ![Project Image](https://github.com/jamesqquick/markdown-worksheet/blob/master/screenshot.png)
 
