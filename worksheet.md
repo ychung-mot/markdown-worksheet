@@ -3,7 +3,7 @@ The main goal of MarkDown is to be easily written and easily read.  It uses "pla
 
 Markdown, in comparison to HTML, is much simpler to read and write.  The average person can typically understand markdown and would be able to learn and write it much quicker than HTML.
 
-Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) Markdown specification.
+Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) Markdown specification. Test.
 
 ## Sections
 - [Headers](#headers)
